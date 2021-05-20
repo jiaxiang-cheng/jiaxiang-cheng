@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
+- 🔭 I’m currently working on machine learning, computer vision, reliability engineering.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- #### ⚙️ GitHub Analytics -->
+
+<!-- <p align="center"> -->
+<a href="https://github.com/jiaxiang-cheng">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jiaxiang-cheng&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jiaxiang-cheng&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
