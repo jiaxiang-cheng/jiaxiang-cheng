@@ -4,22 +4,17 @@
 **jiaxiang-cheng/jiaxiang-cheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 
 - 🔭 I’m currently working on machine learning, computer vision, reliability engineering.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning renewal process, smart manufacturing, survival analysis, bioinformatics.
+- 👯 I’m looking to collaborate on machine learning application with pratical cases.
+- 📫 How to reach me: jiaxiang.cheng@outlook.com or jiaxiang002@e.ntu.edu.sg
+
+<!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-<!-- #### ⚙️ GitHub Analytics -->
-
-<!-- <p align="center"> -->
-<a href="https://github.com/jiaxiang-cheng">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jiaxiang-cheng&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
