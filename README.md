@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on machine learning, computer vision, reliability engineering.
+- 🔭 I’m currently working on machine learning application, computer vision, reliability engineering.
 - 🌱 I’m currently learning renewal process, smart manufacturing, survival analysis, bioinformatics.
-- 👯 I’m looking to collaborate on machine learning application with pratical cases.
+- 👯 I’m looking to collaborate on machine learning application with practical cases.
 - 📫 How to reach me: jiaxiang.cheng@outlook.com or jiaxiang002@e.ntu.edu.sg
 
 <!--
