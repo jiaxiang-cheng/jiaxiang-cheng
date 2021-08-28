@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning renewal process, smart manufacturing, survival analysis, bioinformatics.
 - 👯 I’m looking to collaborate on machine learning application with practical cases.
 - ✨ btw, I'm also an amateur music maker, singer, and photographer.
-- 📫 How to reach me: jiaxiang.cheng@outlook.com or jiaxiang002@e.ntu.edu.sg
+- 📫 How to reach me: jiaxiang.cheng@outlook.com
 
 <!--
 - 🤔 I’m looking for help with ...
