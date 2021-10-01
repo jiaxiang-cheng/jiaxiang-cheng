@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://raw.githubusercontent.com/jiaxiang-cheng/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/jiaxiang-cheng/github-stats-transparent/output/generated/languages.svg)
+
