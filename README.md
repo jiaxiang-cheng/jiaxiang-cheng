@@ -1,3 +1,16 @@
+# Hi There :wave:
+
+<p align="center">
+  <samp>
+I'm Jia-Xiang. A Ph.D. student working on industrial informatics from China, currently at Nanyang Technologcial University, Singapore.
+  </samp>
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jiaxiang-cheng&show_icons=true&theme=gruvbox" alt="Jia-Xiang Github Stats"></img>
+</p>
+
+## Details :closed_book:
+
 <!--
 **jiaxiang-cheng/jiaxiang-cheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiaxiang-cheng&show_icons=true&theme=gruvbox)
 
