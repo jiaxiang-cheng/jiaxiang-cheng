@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/jiaxiang-cheng/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/jiaxiang-cheng/github-stats-transparent/output/generated/languages.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
