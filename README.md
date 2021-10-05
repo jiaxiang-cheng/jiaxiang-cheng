@@ -1,4 +1,4 @@
-## 你好呀！:wave:  Hi There!
+## 你好呀~ :wave:  Hi There！Wie Geht's？
 
 <p align="center">
   <samp>
