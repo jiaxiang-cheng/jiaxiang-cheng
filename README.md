@@ -6,7 +6,8 @@ I'm Jia-Xiang. A Ph.D. student working on industrial informatics from China, cur
   </samp>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jiaxiang-cheng&show_icons=true&theme=gruvbox" alt="Jia-Xiang Github Stats"></img>
+  <img src="https://raw.githubusercontent.com/jiaxiang-cheng/github-stats-transparent/output/generated/overview.svg" alt="Jia-Xiang Github Stats"></img>
+  <img src="https://raw.githubusercontent.com/jiaxiang-cheng/github-stats-transparent/output/generated/languages.svg" alt="Jia-Xiang Github Stats"></img>
 </p>
 
 ## Details :closed_book:
