@@ -1,10 +1,6 @@
 ## 你好呀~ :wave:  Hi There！Wie Geht's？
 
 <p align="center">
-  <samp>
-I'm Jia-Xiang. A Ph.D. student working on industrial informatics from China, currently at Nanyang Technologcial University, Singapore.
-  </samp>
-  <br/>
   <br/>
   <img src="https://raw.githubusercontent.com/jiaxiang-cheng/github-stats-transparent/output/generated/overview.svg" alt="Jia-Xiang Github Stats"></img>
   <img src="https://raw.githubusercontent.com/jiaxiang-cheng/github-stats-transparent/output/generated/languages.svg" alt="Jia-Xiang Github Stats"></img>
