@@ -1,3 +1,5 @@
+![banner](https://github.com/jiaxiang-cheng/jiaxiang-cheng/blob/main/banner.jpeg)
+
 ## 你好呀~ :wave:  Hi There！Wie Geht's？
 
 <p align="center">
