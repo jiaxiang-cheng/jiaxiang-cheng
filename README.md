@@ -2,7 +2,7 @@
 
 ## 你好呀~ :wave:  Hi There！Wie Geht's？
 <img src="https://github.com/jiaxiang-cheng/jiaxiang-cheng/blob/main/meow.gif" align="right" height="275" /></a>
-<img src="https://github-readme-stats.vercel.app/api?username=jiaxiang-cheng&hide_border=true&theme=gruvbox" alt="jiaxiang-cheng"  /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=jiaxiang-cheng&hide_border=true&theme=graywhite" alt="jiaxiang-cheng"  /></p>
 
 ## Details :closed_book: 详细说说呢
 
