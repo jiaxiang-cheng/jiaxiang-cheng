@@ -2,11 +2,7 @@
 
 ## 你好呀~ :wave:  Hi There！Wie Geht's？
 
-<p align="center">
-  <br/>
-  <img src="https://raw.githubusercontent.com/jiaxiang-cheng/github-stats-transparent/output/generated/overview.svg" alt="Jia-Xiang Github Stats"></img>
-  <img src="https://raw.githubusercontent.com/jiaxiang-cheng/github-stats-transparent/output/generated/languages.svg" alt="Jia-Xiang Github Stats"></img>
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jiaxiang-cheng&theme=gruvbox" alt="jiaxiang-cheng"  /></p>
 
 ## Details :closed_book:
 
