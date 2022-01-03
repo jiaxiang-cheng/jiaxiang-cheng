@@ -2,9 +2,9 @@
 
 ## 你好呀~ :wave:  Hi There！Wie Geht's？
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jiaxiang-cheng&theme=gruvbox" alt="jiaxiang-cheng"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jiaxiang-cheng&hide_border=true&theme=gruvbox" alt="jiaxiang-cheng"  /></p>
 
-## Details :closed_book:
+## Details :closed_book: 详细说说呢
 
 <!--
 **jiaxiang-cheng/jiaxiang-cheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
