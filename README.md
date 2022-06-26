@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on industrial informatics, predictive maintenance, machine learning application.
 - 🌱 I’m currently learning computer vision, smart manufacturing, survival analysis, bioinformatics.
 - 👯 I’m looking to collaborate on machine learning application with practical cases.
-- ✨ btw, I'm also an amateur music producer, singer, and [photographer](https://github.com/jiaxiang-cheng/photography).
+- ✨ btw, I'm also an amateur music producer, singer, and [photographer](https://jiaxiang-cheng.github.io/photography).
 - 📫 How to reach me: jiaxiang.cheng@outlook.com
 
 <!--
