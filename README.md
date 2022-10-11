@@ -1,4 +1,4 @@
-![banner](https://github.com/jiaxiang-cheng/jiaxiang-cheng/blob/main/Broke%20-%20PaddlePaddle.png?raw=true)
+![banner](https://github.com/jiaxiang-cheng/jiaxiang-cheng/blob/main/DALL%C2%B7E%202022-10-11%2015.27.37%20-%20Galaxy%20.png?raw=true)
 
 ## 你好呀~ :wave:  Hi There！Wie Geht's？
 <img src="https://github.com/jiaxiang-cheng/jiaxiang-cheng/blob/main/meow.gif" align="right" height="275" /></a>
