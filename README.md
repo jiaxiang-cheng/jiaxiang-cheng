@@ -1,5 +1,5 @@
 ![banner](https://github.com/jiaxiang-cheng/jiaxiang-cheng/blob/main/DALL%C2%B7E%202022-10-11%2015.27.37%20-%20Galaxy%20.png?raw=true)
-This is an AI-generated digital art by OpenAI DALL·E. I typed in *Two astronauts standing on colorful ocean*, then this amazing work just showed up. I love it too much and please support their extraordinary job!
+This is an AI-generated digital art by OpenAI DALL·E. I typed in *Two astronauts standing on colorful ocean*, then this amazing work just showed up. I love it sooo much and pls support their extraordinary job!
 
 ## 你好呀~ :wave:  Hi There！Wie Geht's？
 <img src="https://github.com/jiaxiang-cheng/jiaxiang-cheng/blob/main/meow.gif" align="right" height="275" /></a>
