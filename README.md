@@ -1,5 +1,5 @@
-![banner](https://github.com/jiaxiang-cheng/jiaxiang-cheng/blob/c97b899317bf2d462b2e77d8967d044c3fcf90fa/4437621c-75c6-4145-bc3e-596fe3bf2e89.jpg)
-"*A sleek, humanoid AI robotic doctor with a metallic finish, working diligently in a high-tech, futuristic hospital. The robot is performing a critical surgery on a human patient using advanced medical equipment. The scene is tense but filled with hope, with other medical staff and machines assisting in the background.*" -- *Prompt by [ChatGPT](https://openai.com/index/chatgpt/), Image by [Stable Diffusion](https://stablediffusionweb.com/)*
+![banner](https://github.com/jiaxiang-cheng/jiaxiang-cheng/blob/6aaf5a8392d3325e4910c606f9907a583eff85bc/24BB8633-7009-4696-9295-01ED0D49B2FC_1_201_a.jpeg)
+<p style='text-align: right;'> Fujikawaguchiko, Yamanashi, Japan </p>
 
 ## 你好呀~ :wave:  Hi There！Wie Geht's？
 <img src="https://github-readme-stats.vercel.app/api?username=jiaxiang-cheng&hide_border=true&theme=graywhite" alt="jiaxiang-cheng"  /></p>
