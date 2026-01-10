@@ -5,7 +5,7 @@
 ### Data Scientist @ American Express | Ph.D. (NTU, 2025)
 
 📍 Singapore  
-📬 jiaxiang.cheng@outlook.com | 🔗 [LinkedIn](https://www.linkedin.com/in/jiaxiang-cheng/) | 🌐 [Website](https://jiaxiang-cheng.github.io/)
+📬 jiaxiang.cheng@outlook.com | 🔗 [LinkedIn](https://www.linkedin.com/in/jiaxiang-cheng/)
 
 
 ---
